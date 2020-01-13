@@ -56,9 +56,9 @@ const phrases = [
 'Helly-chan,',
 'Please forget everything',
 'and be happy',
-'wew',
+'wew This is what keeps me alive :D',
 'And dont ignore me xD.',
-'Noice',
+'Noice This is where I feel alive :*)',
 'o_0'];
 
 
